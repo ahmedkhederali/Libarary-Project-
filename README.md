@@ -1,5 +1,5 @@
-# Weeding-Hall
-First website of Wedding Hall in Egypt
+# Library Project
+Library Project 
 # User Function: 
 
 
@@ -26,12 +26,13 @@ First website of Wedding Hall in Egypt
 # Hall Function:
 
 
-          -Halls pags
-          -Book Hall Page
-          -page For Each Hall
-          -Hall Reviews
-          -Hall Rating 
-          -Hall Like
+          -Book pags
+          -Article Page
+          -page For Each Book
+          -page For Each Article
+          -Book & Article Reviews
+          -Book & Article Rating 
+          -Book & Article Like
           -booked by payment getaway
           -booked without payment
           -Preview Booked 
@@ -41,15 +42,17 @@ First website of Wedding Hall in Egypt
 
 
           -Dashboard
-          -Create Hall
-          -Edit Hall
-          -Delete Hall 
-          -show all Report
+          -Create Book
+          -Create Article
+          -Create News
+          -Edit Book & Article & News
+          -Delete Book & Article & News 
+          -show all Book & Article & News
 
 # Hall Admin Function:
 
 
-          -Dashboard of Hall
+          -Dashboard of Book & Article & News
           -image of big Slider & small Slider
-          -Edit information of Hall 
-          -Preview Hall
+          -Edit information of Book & Article & News 
+          -Preview Book & Article & News
